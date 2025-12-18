@@ -1,0 +1,26 @@
+# LlamaIndex core and extensions
+llama-index
+llama-index-vector-stores-lancedb
+llama-index-embeddings-fastembed
+llama-index-embeddings-clip
+llama-index-readers-file
+llama-index-multi-modal-llms-gemini
+
+# Vector store
+lancedb
+
+# Video and audio processing
+moviepy==1.0.3
+SpeechRecognition
+openai-whisper
+
+# YouTube
+youtube-transcript-api
+yt-dlp
+
+# Google AI
+google-generativeai
+
+# Image processing
+Pillow
+matplotlib
